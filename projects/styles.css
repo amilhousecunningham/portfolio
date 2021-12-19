@@ -46,3 +46,7 @@ body{
 .card-body{
     background-color: white;
 }
+
+a:visited {
+    color:white;
+}
