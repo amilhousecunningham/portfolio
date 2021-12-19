@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Copperplate;
+    font-size: 1.1rem;
+}
+
+.navbar-brand {
+    font-size: 1.45rem;
+}
+
+.navbar-toggler{
+    background-color: whitesmoke;
+   }
+
+.card{
+    position: relative;
+    top: 140px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+
+.card-title{
+    font-family: Copperplate;
+}
+
+.card-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-description{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.skills {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em;
+}
+
+.resume{
+    font-family: Copperplate; 
+}
+
+.btn {
+    background-color: black;
+    font-family: Copperplate;
+    color: white;
+}
