@@ -1,0 +1,35 @@
+html {
+    overflow-x:hidden;
+    overflow-y: hidden;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px
+    } 
+    
+body{
+    background-color: black;
+}
+
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Copperplate;
+    font-size: 1.1rem;
+}
+
+.navbar-brand {
+    font-size: 1.45rem;
+}
+
+.navbar-toggler{
+    background-color: whitesmoke;
+   }
+
+h3 {
+    color: whitesmoke;
+    font-family: Copperplate;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}

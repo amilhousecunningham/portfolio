@@ -49,6 +49,6 @@ input[type=text], select, textarea {
   form{
     position: fixed;
     top: 110px;
-    font-family: Monaco;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1rem;
 }
