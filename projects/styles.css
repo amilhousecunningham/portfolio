@@ -1,10 +1,13 @@
+
+
 body{
     background-color: black;
+  
 }
 
 .navbar {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     font-family: Copperplate;
     font-size: 1.1rem;
 }
@@ -15,6 +18,8 @@ body{
 
 .navbar-toggler{
     background-color: whitesmoke;
+    padding: 2.5px;
+
    }
 
 

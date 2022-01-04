@@ -7,13 +7,16 @@ html {
     } 
     
 body{
+    overflow-y: hidden;
+    overflow-y: hidden;
+    overflow: hidden;
     background-color: black;
 }
 
 
 .navbar {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 2px;
+  padding-bottom: 2px;
     font-family: Copperplate;
     font-size: 1.1rem;
 }
@@ -24,6 +27,7 @@ body{
 
 .navbar-toggler{
     background-color: whitesmoke;
+    padding: 2.5px;
    }
 
 
@@ -51,9 +55,11 @@ img{
 h6 {
     font-family: copperplate;
     color: white;
+    background-color: black;
     text-align: center;
     position: relative;
-    bottom: 55px;
+    bottom: 100px;
+
 }
 
 
