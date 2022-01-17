@@ -1,103 +1,98 @@
-
-
-body{
-    background-color: black;
-  
+body {
+  background-color: black;
 }
 
 .navbar {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    font-family: Copperplate;
-    font-size: 1.1rem;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-family: Copperplate;
+  font-size: 1.1rem;
 }
 
 .navbar-brand {
-    font-size: 1.45rem;
+  font-size: 1.45rem;
 }
 
-.navbar-toggler{
-    background-color: whitesmoke;
-    padding: 2.5px;
-
-   }
-
+.navbar-toggler {
+  background-color: whitesmoke;
+  padding: 2.5px;
+}
 
 .cards {
-    position: relative;
-    margin-top: 60px;
+  position: relative;
+  margin-top: 60px;
 }
 
 .card-title {
-    font-family: Copperplate;
-    font-size: 1.1rem;
-
+  font-family: Copperplate;
+  font-size: 1.1rem;
 }
 
 .card-text {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 0.9rem;
-
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 0.9rem;
 }
 
 .btn {
-    font-family: Copperplate;
-    font-size: 0.85rem;
-    background-color: black;
-    color: white;
-} 
+  font-family: Copperplate;
+  font-size: 0.85rem;
+  background-color: black;
+  color: white;
+}
 
-
-.card-body{
-    background-color: white;
+.card-body {
+  background-color: white;
 }
 
 a:visited {
-    color:white;
+  color: white;
 }
 
 .project {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+button {
+  width: 200px;
+}
 
 @media only screen and (max-width: 600px) {
-    .floral-img {
-        padding-top: 12.5px!important;
-        padding-bottom: 12.5px!important;
-
-    }
+  .floral-img {
+    padding-top: 12.5px !important;
+    padding-bottom: 12.5px !important;
+  }
 }
 
 @media only screen and (min-width: 600px) {
-    .floral-img {
-        padding-top: 12.5px!important;
-        padding-bottom: 12.5px!important;
-
-    }
+  .floral-img {
+    padding-top: 12.5px !important;
+    padding-bottom: 12.5px !important;
+  }
 }
 
 @media only screen and (min-width: 768px) {
-    .floral-img{
-        padding-top: 18.5px!important;
-        padding-bottom: 18.5px!important;
-
-    }
+  .floral-img {
+    padding-top: 18.5px !important;
+    padding-bottom: 18.5px !important;
+  }
 }
 @media only screen and (min-width: 992px) {
-    .floral-img{
-        padding-top: 18.5px!important;
-        padding-bottom: 18.5px!important;
-
-    }
+  .floral-img {
+    padding-top: 18.5px !important;
+    padding-bottom: 18.5px !important;
+  }
 }
 
-
 @media only screen and (min-width: 1200px) {
-    .floral-img{
-        padding-top: 21.5px!important;
-        padding-bottom: 21.5px!important;
-
-    }
-
+  .floral-img {
+    padding-top: 21.5px !important;
+    padding-bottom: 21.5px !important;
+  }
 }
