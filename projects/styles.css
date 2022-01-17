@@ -60,7 +60,7 @@ a {
   width: 100%;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .floral-img {
     padding-top: 12.5px !important;
     padding-bottom: 12.5px !important;
@@ -92,4 +92,4 @@ a {
     padding-top: 21.5px !important;
     padding-bottom: 21.5px !important;
   }
-}
+} */
