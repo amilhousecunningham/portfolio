@@ -1,66 +1,57 @@
 html {
-    overflow-x:hidden;
-    overflow-y: hidden;
-    overflow: hidden;
-    margin: 0px;
-    padding: 0px
-    } 
-    
-body{
-    overflow-y: hidden;
-    overflow-y: hidden;
-    overflow: hidden;
-    background-color: black;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
 }
 
+body {
+  overflow-y: hidden;
+  overflow-y: hidden;
+  overflow: hidden;
+  background-color: black;
+}
 
 .navbar {
-    padding-top: 2px;
+  padding-top: 2px;
   padding-bottom: 2px;
-    font-family: Copperplate;
-    font-size: 1.1rem;
+  font-family: Copperplate;
+  font-size: 1.1rem;
 }
 
 .navbar-brand {
-    font-size: 1.45rem;
+  font-size: 1.45rem;
 }
 
-.navbar-toggler{
-    background-color: whitesmoke;
-    padding: 2.5px;
-   }
-
-
-img{
-    width: 100%;
-    height: 85vh;
-    position: relative;
-    bottom: 120px;
-    left: 0px;
-   
+.navbar-toggler {
+  background-color: whitesmoke;
+  padding: 2.5px;
 }
 
-.jumbotron{
-    position: relative;
-    top: 645px;
-    z-index:1;
-    font-family: Copperplate;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    background-color: black;
-    
+img {
+  width: 100%;
+  height: 85vh;
+  position: relative;
+  bottom: 120px;
+  left: 0px;
 }
 
+.jumbotron {
+  position: relative;
+  top: 645px;
+  z-index: 1;
+  font-family: Copperplate;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: black;
+}
 
 h6 {
-    font-family: copperplate;
-    color: white;
-    background-color: black;
-    text-align: center;
-    position: relative;
-    bottom: 100px;
-
+  font-family: copperplate;
+  color: white;
+  background-color: black;
+  text-align: center;
+  position: relative;
+  bottom: 100px;
 }
-
-
-
