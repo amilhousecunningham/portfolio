@@ -53,14 +53,12 @@ a:visited {
 }
 
 a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   text-decoration: none;
 }
 
 .btn {
-  width: 200px;
+  width: 100%;
+
 }
 
 @media only screen and (max-width: 600px) {
