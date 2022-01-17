@@ -55,3 +55,7 @@ body{
 a:visited {
     color:white;
 }
+
+.project {
+    margin-bottom: 20px;
+}
