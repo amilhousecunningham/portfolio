@@ -1,64 +1,59 @@
-
-
-body{
-    background-color: black;
-   
+body {
+  background-color: black;
 }
 
 .navbar {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    font-family: Copperplate;
-    font-size: 1.1rem;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-family: Copperplate;
+  font-size: 1.1rem;
 }
 
 .navbar-brand {
-    font-size: 1.45rem;
+  font-size: 1.45rem;
 }
 
-.navbar-toggler{
-    background-color: whitesmoke;
-    padding: 2.5px;
-
-   }
-
-.card{
-    position: relative;
-    top: 110px;
-    background-color: white;
-    border-style: solid;
-    border-color: black;
+.navbar-toggler {
+  background-color: whitesmoke;
+  padding: 2.5px;
 }
 
-.card-title{
-    font-family: Copperplate;
+.card {
+  position: relative;
+  top: 110px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
 }
 
-.card-text{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.card-title {
+  font-family: Copperplate;
 }
 
-.card-description{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.card-text {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
 
+.card-description {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .skills {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.1em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.1em;
 }
 
-.resume{
-    font-family: Copperplate; 
+.resume {
+  font-family: Copperplate;
 }
 
 .btn {
-    background-color: black;
-    font-family: Copperplate;
-    color: white;
+  background-color: black;
+  font-family: Copperplate;
+  color: white;
 }
 
-.img{
-    height: 575px;
-    width: 500px;
+.img {
+  height: 575px;
+  width: 500px;
 }
