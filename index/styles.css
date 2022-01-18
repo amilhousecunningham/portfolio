@@ -11,6 +11,8 @@ body {
   overflow-y: hidden;
   overflow: hidden;
   background-color: black;
+  margin: 0px;
+  padding: 0px;
 }
 
 .navbar {
@@ -33,25 +35,39 @@ img {
   width: 100%;
   height: 85vh;
   position: relative;
-  bottom: 120px;
-  left: 0px;
 }
 
 .jumbotron {
-  position: relative;
-  top: 645px;
+  /* position: relative; */
+  /* top: 645px; */
   z-index: 1;
   font-family: Copperplate;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  background-color: black;
+
+  background-color: transparent;
+
 }
 
 h6 {
   font-family: copperplate;
   color: white;
-  background-color: black;
+  background-color: transparent;
   text-align: center;
   position: relative;
-  bottom: 100px;
+  bottom: 190px;
 }
+
+ @media only screen and (min-width: 400px) and (max-width:0px) {
+  h6 {
+    position: relative!important;
+    bottom: 370px!important;
+  
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+   h6 {
+    position: relative!important;
+    bottom: 150px!important;
+  
+  }
+} 

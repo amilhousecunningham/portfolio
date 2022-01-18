@@ -1,5 +1,6 @@
 body {
   background-color: whitesmoke;
+  overflow: scroll;
 }
 
 .navbar {
@@ -16,6 +17,11 @@ body {
 .navbar-toggler {
   background-color: whitesmoke;
   padding: 2.5px;
+}
+
+.form {
+  position: relative;
+  top:80px;
 }
 
 /* Form CSS */
@@ -67,4 +73,12 @@ form {
   top: 110px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1rem;
+}
+
+@media only screen and (min-width:1000px) {
+  .form {
+    position: relative;
+    top:60px;
+  
+  }
 }
