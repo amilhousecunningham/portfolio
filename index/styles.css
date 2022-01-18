@@ -71,3 +71,9 @@ h6 {
   
   }
 } 
+
+@media (orientation: landscape) {
+  h6 {
+    display: none;
+  }
+}
