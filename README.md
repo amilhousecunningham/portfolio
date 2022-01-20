@@ -1,2 +1,2 @@
 # portfolio
-This portfolio was created to document and showcase projects I completed.
+This web developer portfolio was created to document and showcase projects I completed.
